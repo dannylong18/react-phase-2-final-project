@@ -10,3 +10,5 @@ function ItemCard () {
         </div>
     )
 }
+
+export default ItemCard
