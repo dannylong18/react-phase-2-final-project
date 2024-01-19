@@ -5,14 +5,14 @@ import Home from "./Home";
 
 const routes = [
     {
-        path : "/contactus", Element : <ContactUs />, errorElement : <ErrorPage />
+        path : '/', Element : <Home />, errorElement : <ErrorPage />
     },
     {
-        path : "/favoriteitems", Element : <FavoriteItems />, errorElement : <ErrorPage />
+        path : '/contact', Element : <ContactUs />, errorElement : <ErrorPage />
     },
     {
-        path : "/", Element : <Home />, errorElement : <ErrorPage />
-    },
+        path : '/favoriteitems', Element : <FavoriteItems />, errorElement : <ErrorPage />
+    }
 ];
 
 export default routes;

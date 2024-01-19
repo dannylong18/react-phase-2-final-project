@@ -1,6 +1,6 @@
-import ItemCard from './ItemCard'
 
-function FavoriteItems (props) {
+
+function FavoriteItems () {
     return (
         <div>
 
