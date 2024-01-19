@@ -3,13 +3,13 @@
 
 ## Description
 
-A single page web application designed using HTML, CSS, and Javascript. It allows users to click on the menu and see what drinks are offered. Additionally, upon placing the cursor over each drink name, a picture of that drink will appear. Finally, if the user has any suggestions for additional drinks in the future, they may be submitted and a list is created for future consideration.
+A single page application designed using React.js and CSS. Upon opening, users see the homepage of the website and the inital information explaining it. Then, users can navigate to the favorite items page which show the favorite items of the Curated Corner staff with a name, price, and description with a link to purchase. Finally, if the user has any favorite items they want to add, they may be submitted via a form and a list is created. 
 
 ## Usage
 
 ![Sample GIF](./spaUsage.gif)
 
-API used: https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita
+API used: local db.json file 
 
 ## Acknowledgements
 
@@ -17,4 +17,4 @@ I would like to thank all of the Flatiron phase leaders, technical coaches, fell
 
 ## Project Status
 
- This project has been stopped at this time. 
+ This project is currently under development.
