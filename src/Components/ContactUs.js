@@ -1,4 +1,5 @@
 import { useState } from'react';
+import NavBar from './NavBar';
 
 function ContactUs () {
     const [telephone, setTelephone] = useState('');
@@ -14,6 +15,7 @@ function ContactUs () {
 
   return (
     <div>
+        <NavBar />
       <h2>Contact Us</h2>
       <form>
         <label>

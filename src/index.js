@@ -12,7 +12,7 @@ root.render(<Router>
         key={route.path}
         path={route.path}
         element={route.Element}
-        caseSensitive={false} // Adjust if needed
+        caseSensitive={false}
       />
     ))}
   </Routes>
