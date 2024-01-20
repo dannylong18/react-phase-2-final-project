@@ -5,8 +5,8 @@ function NavBar() {
     return (
         <nav className="navbar">
       <NavLink to='/'>Home</NavLink>
-      <NavLink to='/contact'>Contact Us</NavLink>
       <NavLink to='/favoriteitems'>Favorite Items</NavLink>
+      <NavLink to='/contact'>Contact Us</NavLink>
     </nav>
     )
 }
