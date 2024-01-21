@@ -3,7 +3,7 @@
 
 ## Description
 
-A single page application designed using React.js and CSS. Upon opening, users see the homepage of the website and the inital information explaining it. Then, users can navigate to the favorite items page which show the favorite items of the Curated Corner staff with a name, price, and description with a link to purchase. Finally, if the user has any favorite items they want to add, they may be submitted via a form and a list is created. 
+A single page application designed using React.js and CSS. Upon opening, users see the homepage of the website and the inital information explaining it. Then, users can navigate to the favorite items page which show the favorite items of the Curated Corner staff with a name, price, and image of the item. Additionally, if the user has any favorite items they want to add, they may be submitted via a form and an addition to the list is created. Finally, a user may submit their phone number and email address for future contact purposes.
 
 ## Usage
 
