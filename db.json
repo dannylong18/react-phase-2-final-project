@@ -17,6 +17,12 @@
       "name": "Curtains",
       "image": "https://m.media-amazon.com/images/I/61-jVzai6xL._AC_SL1500_.jpg",
       "price": 45
+    },
+    {
+      "name": "Outdoor Fire Pit",
+      "image": "https://m.media-amazon.com/images/I/61fuoCLGLxL._AC_SL1500_.jpg",
+      "price": "380",
+      "id": 4
     }
   ]
 }

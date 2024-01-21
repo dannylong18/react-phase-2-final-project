@@ -7,7 +7,7 @@ A single page application designed using React.js and CSS. Upon opening, users s
 
 ## Usage
 
-![Sample GIF](./spaUsage.gif)
+![Sample GIF](./useGif.gif)
 
 API used: local db.json file 
 
