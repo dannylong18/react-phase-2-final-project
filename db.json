@@ -1,28 +1,22 @@
 {
-    "items": [
-      {
-        "id": 1,
-        "name": "Headboard",
-        "image": "https://m.media-amazon.com/images/I/61CIOEREvQL._AC_SL1000_.jpg",
-        "description": "King-size Wall Mounted Upholstered Headboard",
-        "price": 122,
-        "link": "https://a.co/d/8G63rh8"
-      },
-      {
-        "id": 2,
-        "name": "Sconces",
-        "image": "https://m.media-amazon.com/images/I/51xoFp44tqL._AC_SL1500_.jpg",
-        "description": "Slim Wall Sconce Set of 2 with White Fabric Shades",
-        "price": 57,
-        "link": "https://a.co/d/4fAIWtm"
-      },
-      {
-        "id": 3,
-        "name": "Curtains",
-        "image": "https://m.media-amazon.com/images/I/61-jVzai6xL._AC_SL1500_.jpg",
-        "description": "Italian Faux Linen Curtains - Dove White",
-        "price": 45,
-        "link": "https://a.co/d/eGBEqij"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": 1,
+      "name": "Headboard",
+      "image": "https://m.media-amazon.com/images/I/61CIOEREvQL._AC_SL1000_.jpg",
+      "price": 122
+    },
+    {
+      "id": 2,
+      "name": "Sconces",
+      "image": "https://m.media-amazon.com/images/I/51xoFp44tqL._AC_SL1500_.jpg",
+      "price": 57
+    },
+    {
+      "id": 3,
+      "name": "Curtains",
+      "image": "https://m.media-amazon.com/images/I/61-jVzai6xL._AC_SL1500_.jpg",
+      "price": 45
+    }
+  ]
+}

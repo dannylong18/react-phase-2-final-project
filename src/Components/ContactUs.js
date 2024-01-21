@@ -1,21 +1,21 @@
-import { useState } from'react';
+import React, { useState } from 'react';
 import NavBar from './NavBar';
 
-function ContactUs () {
-    const [telephone, setTelephone] = useState('');
-    const [email, setEmail] = useState('');
+const ContactUs = () => {
+  const [telephone, setTelephone] = useState('');
+  const [email, setEmail] = useState('');
 
   const handleTelephoneChange = (e) => {
     setTelephone(e.target.value);
-  }
+  };
 
   const handleEmailChange = (e) => {
     setEmail(e.target.value);
-  }
+  };
 
   return (
     <div>
-        <NavBar />
+    <NavBar />
       <h2>Contact Us</h2>
       <form>
         <label>

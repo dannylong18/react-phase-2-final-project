@@ -1,0 +1,37 @@
+
+.item-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; 
+}
+
+.item-card {
+    display: block;
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin-bottom: 16px;
+    width: 250px;
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+.item-card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.item-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.item-card p.price {
+  font-weight: bold;
+}
+
+.item-form {
+  float: right;
+  margin-right: 20px;
+}
